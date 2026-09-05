@@ -52,9 +52,13 @@ of Database Marketing & Customer Strategy Management, 19(3), 197–208.
 ```
 ├── README.md                               # This file
 ├── Customer_Segmentation_RFM_KMeans.ipynb  # Full analysis notebook (executed, with outputs)
-├── online_retail_dataset.csv               # Raw dataset used (uncleaned, ~48MB)
+├── online_retail_dataset.csv.gz            # Raw dataset used (uncleaned, gzip-compressed, ~7.6MB)
 └── requirements.txt                        # Python dependencies
 ```
+
+> The dataset is shipped gzip-compressed to stay under GitHub's 25MB web-upload limit — it's
+> the exact same 541,909 rows, just compressed. `pandas.read_csv()` reads `.csv.gz` files
+> directly with no extra step: `pd.read_csv("online_retail_dataset.csv.gz")`.
 
 ## 🔍 What's Inside the Notebook
 
