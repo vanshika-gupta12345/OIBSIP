@@ -1,0 +1,204 @@
+patient_id,first_name,last_name,age,gender,department,diagnosis,admit_date,attending_doctor,insurance_provider,status,billing_amount,phone,email
+P1199,Christopher,Martin,48,male,Radiology,Chronic Kidney Disease,"  Jan 07, 2024 ",Dr. Adams,Medicare,DISCHARGED,456.75,206-507-4635,christopher.martin99@example.com
+P1175,Anthony,Lopez,74,,Psychiatry,Depression,11-11-2025,Dr. Gupta,Cigna,admitted,13825.02,772-768-8925,anthony.lopez45@example.com
+P1140,James,Thomas,76,F,Oncology,Osteoarthritis,17-03-2026,Dr. Gupta,Medicaid,admitted,6337.37,8386062676,james.thomas48@example.com
+P1072,Linda,Rodriguez,6,,Psychiatry,Anemia,10/13/2021,Dr. Jones,,Outpatient,4786.36,678-710-6055,linda.rodriguez51@example.com
+P1187,Michael,Williams,999,Female,Neurology,Coronary Artery Disease,12/06/2025,Dr. Gupta,Medicare,Discharged,6222.54,3347393795,michael.williams42@example.com
+P1161,Michelle,Taylor,,female,General Medicine,Anxiety Disorder,03/15/2026,,Medicaid,admitted,22902.51,7539415633,michelle.taylor99@example.com
+P1137,Lisa,Smith,39,Unknown,ER,Migraine,07/22/2021,,Kaiser,,20654.29,861-291-4079,lisa.smith53@example.com
+P1085,Paul,Johnson,17,,Radiology,Allergic Rhinitis,"Jan 12, 2024",,Self Pay,,13505.54,382-750-7439,paul.johnson29@example.com
+P1050,Nancy,Garcia,72,Male,Orthopedics,Influenza,2025-12-05,Dr. Evans,Kaiser,Pending,10629.17,420-973-9394,nancy.garcia37@example.com
+P1046,Paul,Anderson,13,F,Psychiatry,Type 2 Diabetes,22-05-2026,Dr. Adams,Aetna,admitted,21190.1,929-654-2204,paul.anderson19@example.com
+P1182,Kimberly,Sanchez,4,,cardiology,Influenza,2024-02-16,Dr. Hill,Medicaid,Pending,260.04,303-533-6924,kimberly.sanchez71@example.com
+P1009,Michael,Davis,17,male,General Medicine,Anxiety Disorder,"Nov 05, 2019",Dr. Iqbal,BlueCross,Admitted,$16321.02,295-971-4872,michael.davis28@example.com
+P1189,James,Thompson,61,,,Osteoarthritis,09/11/2025,Dr. Iqbal,Medicaid,Discharged,10322.81,367-932-7385,james.thompson11@example.com
+P1055,John,Anderson,24,Unknown,Dermatology,Fracture,"Sep 11, 2019",Dr. Foster,,Admitted,12638.5,648-649-9586,john.anderson48@example.com
+P1148,Kimberly,Miller,20,Unknown,Pediatrics,,  09/16/2022 ,,BlueCross,Admitted,20889.04,292-998-9383,kimberly.miller33@example.com
+P1074,Michelle,Perez,12,female,Dermatology,Depression,08/13/2020,Dr. Gupta,N/A,Admitted,1180.32,685-731-8487,michelle.perez18@example.com
+P1190,Michelle,Sanchez,83,male,Emergency,Pneumonia,10/08/2019,Dr. Baker,Self Pay,admitted,15462.35,392-528-1317,michelle.sanchez3@example.com
+P1065,Michael,Williams,57,,Orthopedics,Chronic Kidney Disease,"  Dec 10, 2022 ",Dr. Foster,self-pay,admitted,6900.16,276-887-7655,michael.williams87@example.com
+P1100,George,Garcia,93,F,General Medicine,Osteoarthritis,"Oct 11, 2019",Dr. Chen,Self Pay,Outpatient,6088.43,586-275-8357,george.garcia52@example.com
+P1036,Sandra,Robinson,89,,Pediatrics,Anemia,28-06-2019,,Humana,admitted,24710.93,355-707-1606,sandra.robinson43@example.com
+P1076,Patricia,Jackson,92,,Orthopedics,Anxiety Disorder,2019-05-10,Dr. Hill,Medicaid,admitted,3828.21,993-826-8726,patricia.jackson8@example.com
+P1016,Steven,Gonzalez,42,Female,Oncology,Influenza,  06-07-2025 ,Dr. Jones,Humana,Outpatient,18227.2,723-318-7311,
+P1119,Linda,taylor,28,Male,Emergency,Asthma,20-03-2024,Dr. Evans,Medicaid,Admitted,,405-498-5979,linda.taylor48@example.com
+P1200,Emily,Taylor,19,Unknown,Radiology,Fracture,20-07-2020,Dr. Jones,Cigna,Discharged,6443.28,782-422-2264,emily.taylor23@example.com
+P1017,George,Perez,85,,Neurology,COVID-19,27-12-2025,Dr. Baker,,Outpatient,12702.71,913-502-3085,george.perez49@example.com
+P1066,Mark,Johnson,82,,Psychiatry,Type 2 Diabetes,10/14/2025,Dr. Foster,Medicaid,admitted,19088.96,607-521-5566,mark.johnson95@example.com
+P1127,Barbara,Davis,89,Male,ER,Depression,05/14/2025,Dr. Diaz,Kaiser,DISCHARGED,7760.87,4388164584,barbara.davis43@example.com
+P1056,Andrew,Johnson,8,,Oncology,Coronary Artery Disease,05/13/2026,Dr. Jones,Self Pay,Discharged,22922.82,878-601-3112,andrew.johnson40@example.com
+P1131,Joseph,Garcia,4,female,Oncology,Migraine,31-10-2019,Dr. Gupta,UnitedHealth,Pending,1921.31,546-808-8909,joseph.garcia84@example.com
+P1158,Thomas,Miller,56,female,,Pneumonia,03-03-2021,,BlueCross,Discharged,24063.76,241-638-5572,
+P1052,Christopher,Jackson,81,Female,Emergency,Hypertension,08/23/2022,Dr. Jones,Kaiser,,17255.77,308-449-8138,christopher.jackson51@example.com
+P1194,George,Sanchez,40,female,,Chronic Kidney Disease,2021-03-01,Dr. Foster,,Discharged,,923-648-5828,george.sanchez73@example.com
+P1041,Lisa,White,41,M,Pediatrics,Fracture,18-01-2025,Dr. Evans,UnitedHealth,Outpatient,22855.52,502-964-6549,lisa.white10@example.com
+P1167,MARGARET,Garcia,28,,Oncology,Depression,04-07-2020,Dr. Hill,Kaiser,Outpatient,19380.44,861-821-2343,margaret.garcia18@example.com
+P1012,Michael,Williams,16,Female,Pediatrics,Depression,03/13/2022,Dr. Iqbal,,Outpatient,15311.36,208-883-5905,michael.williams18@example.com
+P1081,William,Ramirez,14,Unknown,cardiology,Coronary Artery Disease,2021-02-01,Dr. Evans,self-pay,Pending,18944.2,615-637-9442,william.ramirez13@example.com
+P1144,BARBARA,Harris,22,Male,Cardiology,Chronic Kidney Disease,01/25/2022,Dr. Chen,self-pay,,4002.96,332-829-8105,barbara.harris62@example.com
+P1160,Elizabeth,Johnson,6,male,General Medicine,Depression,26-10-2019,Dr. Chen,N/A,Admitted,19667.14,613-294-6724,elizabeth.johnson43@example.com
+P1196,Emily,Jones,82,Female,Dermatology,Asthma,06/29/2019,Dr. Adams,Cigna,Admitted,12159.99,597-873-9026,EMILY.JONES33@EXAMPLE.COM
+P1113,Matthew,Harris,82,M,Neurology,,2025-04-26,Dr. Chen,Kaiser,Outpatient,18074.68,621-830-8248,matthew.harris13@example.com
+P1078,Sarah,Martinez,48,,Radiology,Fracture,2022-04-04,,BlueCross,Outpatient,23104.04,419-406-9824,sarah.martinez35@example.com
+P1193,Linda,Davis,21,Female,Emergency,Anxiety Disorder,2019-02-06,,Kaiser,Pending,14925.5,361-711-2497,linda.davis98@example.com
+P1103,Susan,Miller,8,M,Radiology,COVID-19,"Mar 18, 2021",,Kaiser,DISCHARGED,24149.61,601-801-2871,susan.miller80@example.com
+P1054,Michelle,Hernandez,19,Unknown,General Medicine,Osteoarthritis,2022-01-30,Dr. Baker,Medicare,admitted,11325.25,278-860-2479,michelle.hernandez60@example.com
+P1128,Barbara,Robinson,,M,,Migraine,25-11-2024,Dr. Foster,,Pending,9920.11,339-361-8157,barbara.robinson84@example.com
+P1073,DANIEL,Johnson,83,male,Dermatology,Hypertension,"Mar 16, 2020",Dr. Evans,,Outpatient,19108.23,783-775-4189,daniel.johnson50@example.com
+P1091,Nancy,Rodriguez,92,Unknown,General Medicine,Influenza,12/13/2022,Dr. Iqbal,Kaiser,Discharged,22926.64,260-736-1554,
+P1096,Sarah,Sanchez,45,,Emergency,Influenza,"Jul 27, 2025",Dr. Jones,Medicare,,6198.92,589-928-3527,sarah.sanchez14@example.com
+P1164,Charles,Sanchez,36,Unknown,Emergency,Allergic Rhinitis,2026-05-30,Dr. Iqbal,Cigna,Discharged,18681.51,502-849-3360,charles.sanchez94@example.com
+P1136,Michael,Robinson,36,female,Emergency,Coronary Artery Disease,"Apr 18, 2023",Dr. Hill,Aetna,Discharged,6921.58,910-611-1635,michael.robinson89@example.com
+P1053,David,Williams,65,female,Radiology,Fracture,2021-08-25,Dr. Diaz,UnitedHealth,DISCHARGED,3864.1,991-843-9095,david.williams75@example.com
+P1060,Joseph,Clark,3,,Dermatology,Depression,"Aug 23, 2021",Dr. Foster,Cigna,Admitted,8001.19,5433493254,joseph.clark61@example.com
+P1132,Michael,Hernandez,89,male,cardiology,Osteoarthritis,05/03/2022,Dr. Gupta,self-pay,DISCHARGED,21004.37,637-289-5825,
+P1152,MICHELLE,Johnson,64,Unknown,Orthopedics,Asthma,06-07-2024,Dr. Evans,Aetna,DISCHARGED,5606.53,440-280-8521,michelle.johnson12@example.com
+P1005,Patricia,Ramirez,87,Female,Emergency,Allergic Rhinitis,"Sep 06, 2025",Dr. Iqbal,Aetna,Pending,18032.01,473-987-6573,PATRICIA.RAMIREZ59@EXAMPLE.COM
+P1001,Mary,White,94,Female,Psychiatry,Anemia,2019-05-11,Dr. Diaz,N/A,DISCHARGED,712.07,758-629-4611,mary.white1@example.com
+P1143,Karen,Wilson,33,Unknown,Neurology,,2019-08-08,Dr. Diaz,N/A,Admitted,21694.07,255-354-3250,karen.wilson73@example.com
+P1114,Daniel,Wilson,35,F,Dermatology,Osteoarthritis,20-04-2019,Dr. Jones,N/A,Discharged,18708.7,445-706-7322,daniel.wilson77@example.com
+P1120,Richard,White,31,,Cardiology,Anxiety Disorder,27-01-2025,,Aetna,Outpatient,86.48,944-514-2703,richard.white54@example.com
+P1018,Karen,gonzalez,36,female,General Medicine,Chronic Kidney Disease,12/17/2023,,UnitedHealth,Pending,2165.65,543-295-4848,karen.gonzalez26@example.com
+P1157,Barbara,Taylor,90,female,Dermatology,,"Jul 15, 2025",Dr. Iqbal,Medicare,,,309-225-7240,barbara.taylor26@example.com
+P1116,Sarah,Williams,26,M,Dermatology,COVID-19,2023-05-20,Dr. Gupta,,,6004.0,318-664-1901,
+P1177,Michelle,Lee,76,M,cardiology,,2023-12-04,,N/A,Outpatient,4908.93,915-437-3776,MICHELLE.LEE84@EXAMPLE.COM
+P1191,MARK,white,1,female,Emergency,Osteoarthritis,03-08-2024,Dr. Adams,Medicaid,Admitted,21096.48,994-601-2169,mark.white33@example.com
+P1092,Joseph,williams,64,Male,Psychiatry,,"  May 24, 2026 ",Dr. Iqbal,N/A,admitted,345.68,493-217-9228,joseph.williams23@example.com
+P1008,ROBERT,Lewis,65,Unknown,Pediatrics,Fracture,"May 27, 2025",Dr. Hill,Humana,Discharged,2403.43,620-678-1887,robert.lewis13@example.com
+P1117,James,Garcia,66,male,Orthopedics,Depression,03-06-2020,Dr. Baker,Aetna,Outpatient,20187.34,929-790-2262,james.garcia8@example.com
+P1033,Anthony,Hernandez,20,Unknown,Oncology,Allergic Rhinitis,2025-03-03,Dr. Foster,Medicare,Outpatient,2942.24,201-873-9889,anthony.hernandez67@example.com
+P1108,Susan,Sanchez,90,,Orthopedics,Fracture,04/26/2021,Dr. Jones,Medicaid,DISCHARGED,7063.07,920-499-5740,susan.sanchez66@example.com
+P1150,Sarah,Clark,53,M,Neurology,Fracture,08/29/2019,Dr. Jones,Kaiser,,14245.14,997-567-1472,sarah.clark94@example.com
+P1049,Emily,Lopez,28,Male,Psychiatry,Coronary Artery Disease,04/29/2019,Dr. Evans,Medicaid,Outpatient,202.34,610-271-3324,emily.lopez12@example.com
+P1121,SARAH,Williams,66,female,General Medicine,Asthma,2025-07-06,,Humana,Admitted,14817.8,333-442-5778,sarah.williams51@example.com
+P1093,Richard,Martin,34,Female,Radiology,Allergic Rhinitis,02/24/2024,Dr. Diaz,Medicare,Pending,20710.15,865-977-1519,richard.martin71@example.com
+P1062,Elizabeth,Martinez,30,M,cardiology,Asthma,14-11-2024,Dr. Iqbal,N/A,DISCHARGED,19670.99,681-244-7338,elizabeth.martinez3@example.com
+P1071,George,Martinez,31,,Oncology,Chronic Kidney Disease,2019-10-26,Dr. Gupta,Kaiser,admitted,5140.37,935-526-6658,george.martinez48@example.com
+P1176,Linda,White,20,,,COVID-19,2025-03-05,,Aetna,,2322.66,645-290-2049,LINDA.WHITE78@EXAMPLE.COM
+P1067,Linda,Rodriguez,27,male,ER,,2021-03-30,Dr. Baker,Kaiser,Discharged,22472.04,898-527-6692,linda.rodriguez38@example.com
+P1070,Emily,Rodriguez,68,M,Psychiatry,Fracture,02-12-2020,Dr. Jones,Aetna,,21601.34,989-790-5336,emily.rodriguez54@example.com
+P1178,Betty,Lopez,25,Female,Neurology,Osteoarthritis,09-04-2025,Dr. Evans,Cigna,DISCHARGED,24078.28,204-467-3867,betty.lopez10@example.com
+P1028,Karen,Rodriguez,40,M,Pediatrics,Pneumonia,06-06-2024,Dr. Iqbal,self-pay,Outpatient,24513.74,5693835952,KAREN.RODRIGUEZ36@EXAMPLE.COM
+P1134,Donna,Davis,66,Unknown,Psychiatry,Anxiety Disorder,04-05-2024,,Aetna,DISCHARGED,14301.94,835-350-2970,donna.davis22@example.com
+P1027,Emily,Smith,30,Unknown,Dermatology,Anxiety Disorder,"May 04, 2024",Dr. Adams,BlueCross,Outpatient,5578.83,795-577-8753,emily.smith96@example.com
+P1043,William,Johnson,63,F,Dermatology,Fracture,"May 11, 2023",,,DISCHARGED,10507.21,624-870-2622,WILLIAM.JOHNSON36@EXAMPLE.COM
+P1186,Robert,Williams,40,male,Psychiatry,Allergic Rhinitis,"Jan 16, 2022",Dr. Foster,,DISCHARGED,13047.35,223-328-4844,robert.williams90@example.com
+P1061,MARK,martin,32,M,Dermatology,,2023-09-30,Dr. Diaz,Medicare,Admitted,1241.35,668-264-2816,MARK.MARTIN69@EXAMPLE.COM
+P1058,John,Perez,16,M,Orthopedics,Influenza,01/02/2026,Dr. Adams,Humana,Outpatient,16925.25,491-970-8355,john.perez61@example.com
+P1118,Thomas,Harris,92,Male,Cardiology,Hypertension,2021-09-28,Dr. Gupta,UnitedHealth,Discharged,23282.44,931-958-7870,thomas.harris93@example.com
+P1183,Nancy,Lopez,53,female,Radiology,Allergic Rhinitis,"Feb 19, 2022",Dr. Chen,self-pay,Pending,5752.74,441-768-8081,nancy.lopez95@example.com
+P1089,Lisa,Williams,6,Male,Neurology,Pneumonia,08/03/2025,Dr. Foster,Medicare,Admitted,5334.6,964-972-8846,lisa.williams91@example.com
+P1044,Jessica,Ramirez,47,female,Cardiology,Allergic Rhinitis,02/04/2022,Dr. Hill,BlueCross,Pending,5342.04,251-541-4990,jessica.ramirez27@example.com
+P1002,Sarah,Jones,13,Female,Radiology,Depression,08-10-2025,,Kaiser,DISCHARGED,3164.41,500-843-6925,sarah.jones6@example.com
+P1037,Kimberly,Robinson,52,M,Neurology,,21-12-2021,Dr. Gupta,Self Pay,Admitted,21301.54,589-524-8994,kimberly.robinson9@example.com
+P1110,Lisa,Anderson,0,Female,ER,Chronic Kidney Disease,13-02-2026,Dr. Iqbal,Humana,Discharged,24204.81,530-490-6533,lisa.anderson63@example.com
+P1133,Charles,Williams,50,male,Neurology,Allergic Rhinitis,27-01-2021,Dr. Foster,UnitedHealth,admitted,1163.19,475-777-2009,charles.williams13@example.com
+P1032,ASHLEY,anderson,55,male,Cardiology,Asthma,2021-07-26,,Medicare,DISCHARGED,1053.78,867-652-5557,ashley.anderson82@example.com
+P1007,George,Harris,70,,Pediatrics,Pneumonia,"Jun 30, 2022",,Medicaid,admitted,22495.37,265-546-1344,GEORGE.HARRIS29@EXAMPLE.COM
+P1095,BETTY,Robinson,30,,cardiology,COVID-19,04/22/2023,,,Admitted,12544.78,647-437-2245,betty.robinson77@example.com
+P1195,Sarah,Ramirez,70,M,General Medicine,Osteoarthritis,14-12-2021,,N/A,admitted,18354.76,572-994-4912,sarah.ramirez69@example.com
+P1179,Steven,Rodriguez,73,Unknown,Emergency,,23-09-2021,Dr. Hill,Self Pay,admitted,22418.27,464-269-7269,steven.rodriguez87@example.com
+P1094,Jennifer,Thomas,42,Female,Dermatology,Type 2 Diabetes,07/30/2021,,self-pay,admitted,6813.82,487-756-1539,jennifer.thomas3@example.com
+P1097,Sarah,Brown,57,,Neurology,Hypertension,03-01-2020,Dr. Jones,self-pay,,8144.54,597-997-2387,sarah.brown32@example.com
+P1020,Emily,Martin,56,,Dermatology,Chronic Kidney Disease,"Oct 13, 2020",Dr. Diaz,Self Pay,Outpatient,19157.05,481-650-2269,emily.martin43@example.com
+P1048,Jennifer,Williams,47,Male,Psychiatry,COVID-19,"May 15, 2020",,Humana,,22900.3,519-560-2697,jennifer.williams85@example.com
+P1088,Matthew,Sanchez,52,,Orthopedics,,09/14/2021,,UnitedHealth,,11602.48,626-770-9683,matthew.sanchez27@example.com
+P1026,Sarah,Martin,61,male,Radiology,Anxiety Disorder,21-12-2019,Dr. Diaz,Kaiser,DISCHARGED,15277.78,532-386-8988,sarah.martin44@example.com
+P1030,Anthony,Martin,66,Unknown,Oncology,Anemia,2022-06-04,,BlueCross,,5234.31,360-445-3847,anthony.martin53@example.com
+P1105,MICHELLE,Jackson,15,Female,Orthopedics,Depression,"Aug 02, 2020",Dr. Chen,self-pay,admitted,10604.82,860-377-3733,michelle.jackson41@example.com
+P1006,Steven,Harris,80,F,Orthopedics,Depression,2020-10-23,Dr. Hill,Aetna,Admitted,23231.01,514-445-1949,steven.harris11@example.com
+P1146,Ashley,Lopez,-1,M,Pediatrics,Hypertension,08/12/2025,,Self Pay,,982.22,747-838-1796,
+P1138,Patricia,taylor,90,M,,,2025-05-18,Dr. Diaz,Aetna,Discharged,875.12,403-480-7035,patricia.taylor82@example.com
+P1080,Kenneth,Davis,4,M,Emergency,Influenza,"May 29, 2019",Dr. Chen,,,$23154.69,781-817-2758,kenneth.davis59@example.com
+P1185,Daniel,Smith,86,F,Psychiatry,Influenza,11-03-2022,Dr. Iqbal,Kaiser,,18426.33,493-674-3373,daniel.smith44@example.com
+P1166,Sandra,Lee,8,F,ER,,17-09-2022,,Cigna,Admitted,7164.17,697-661-6379,sandra.lee75@example.com
+P1154,Nancy,Lopez,37,female,ER,Migraine,07/07/2019,,,Pending,10259.81,323-602-4532,nancy.lopez92@example.com
+P1181,Michelle,Lopez,10,Unknown,Psychiatry,Hypertension,2025-01-26,Dr. Foster,self-pay,Outpatient,12333.89,481-702-3996,michelle.lopez36@example.com
+P1123,CHRISTOPHER,Jones,45,Male,cardiology,Osteoarthritis,  12/01/2021 ,Dr. Gupta,Kaiser,DISCHARGED,18714.56,343-324-1195,christopher.jones29@example.com
+P1149,THOMAS,Anderson,5,female,,COVID-19,2023-10-11,Dr. Adams,Aetna,,3502.94,648-836-5395,thomas.anderson44@example.com
+P1171,Elizabeth,Garcia,15,,,COVID-19,"Apr 09, 2020",Dr. Hill,Cigna,DISCHARGED,4073.09,244-330-3639,elizabeth.garcia74@example.com
+P1099,Margaret,Clark,76,female,Psychiatry,Pneumonia,16-05-2024,Dr. Gupta,Medicaid,Outpatient,18385.12,448-533-7161,margaret.clark47@example.com
+P1004,Patricia,Davis,51,F,Psychiatry,COVID-19,"May 20, 2021",,Kaiser,Discharged,6658.76,469-964-8019,patricia.davis29@example.com
+P1174,John,Thompson,61,,Radiology,Migraine,10/09/2023,Dr. Diaz,BlueCross,Outpatient,14977.39,205-926-1116,john.thompson1@example.com
+P1180,Daniel,Taylor,33,Female,Emergency,COVID-19,11/08/2019,Dr. Foster,Cigna,DISCHARGED,6763.44,394-710-4271,daniel.taylor34@example.com
+P1126,Kenneth,Taylor,3,F,Cardiology,Coronary Artery Disease,"Aug 28, 2019",Dr. Jones,Cigna,Discharged,2548.35,954-257-4594,kenneth.taylor50@example.com
+P1042,Betty,Ramirez,,Female,General Medicine,Depression,"Dec 09, 2021",Dr. Foster,BlueCross,Pending,,774-535-4626,betty.ramirez60@example.com
+P1025,Jessica,Brown,87,Female,,Type 2 Diabetes,"Nov 23, 2022",Dr. Baker,N/A,Pending,8563.72,308-643-6934,jessica.brown91@example.com
+P1045,Susan,Clark,18,Male,Oncology,Fracture,16-06-2020,Dr. Baker,Self Pay,,,4438026304,susan.clark17@example.com
+P1047,Emily,Thompson,67,,Neurology,Migraine,05/05/2026,Dr. Diaz,Humana,Outpatient,20694.11,520-637-6120,emily.thompson20@example.com
+P1109,ANTHONY,Robinson,83,M,Pediatrics,Fracture,08/12/2022,,Humana,admitted,3597.18,584-662-2237,anthony.robinson12@example.com
+P1106,James,Thomas,71,Unknown,Emergency,,"Aug 30, 2023",Dr. Baker,self-pay,Admitted,19907.23,430-750-5729,james.thomas96@example.com
+P1029,William,Lee,1,Unknown,General Medicine,Chronic Kidney Disease,10/27/2022,Dr. Evans,Kaiser,Admitted,20561.79,844-902-1878,william.lee39@example.com
+P1023,SANDRA,Garcia,27,female,,Allergic Rhinitis,"Feb 13, 2022",Dr. Baker,Kaiser,Admitted,18738.16,429-865-2124,SANDRA.GARCIA97@EXAMPLE.COM
+P1083,Paul,Jones,47,Unknown,,Pneumonia,2021-10-10,Dr. Iqbal,,Outpatient,1998.66,760-717-4312,paul.jones42@example.com
+P1184,Ashley,Jones,66,female,,,13-05-2022,Dr. Jones,Aetna,admitted,2519.42,460-687-2577,ashley.jones47@example.com
+P1069,William,Hernandez,87,M,,Influenza,"Jun 12, 2020",Dr. Adams,BlueCross,DISCHARGED,3867.74,926-430-6669,william.hernandez37@example.com
+P1019,Michelle,Ramirez,80,,General Medicine,Allergic Rhinitis,09/26/2021,Dr. Adams,BlueCross,,10657.4,730-675-1822,michelle.ramirez16@example.com
+P1063,Michael,Harris,17,female,cardiology,Influenza,"Mar 18, 2024",Dr. Chen,BlueCross,Pending,19415.95,244-404-1686,michael.harris51@example.com
+P1064,Richard,Martinez,83,Female,,Depression,"Nov 25, 2023",Dr. Gupta,Medicaid,Discharged,12430.27,731-473-2353,richard.martinez78@example.com
+P1180,Daniel,Taylor,33,Female,Emergency,COVID-19,11/08/2019,Dr. Foster,Cigna,DISCHARGED,6763.44,394-710-4271,daniel.taylor34@example.com
+P1142,John,Jackson,24,F,cardiology,,08-01-2023,,N/A,Discharged,7379.91,942-772-3999,john.jackson84@example.com
+P1102,Kenneth,Davis,86,M,Radiology,Hypertension,2024-05-31,Dr. Baker,BlueCross,,23519.87,666-411-9537,kenneth.davis57@example.com
+P1125,Sarah,anderson,79,male,General Medicine,Anemia,"Mar 05, 2025",Dr. Evans,Humana,Discharged,10509.91,455-845-9907,sarah.anderson92@example.com
+P1051,Karen,Johnson,999,F,,Fracture,12-11-2021,Dr. Adams,Kaiser,Pending,10794.84,435-712-6802,karen.johnson6@example.com
+P1124,Jennifer,Jackson,-1,F,cardiology,Chronic Kidney Disease,2020-06-11,Dr. Foster,BlueCross,Admitted,23559.9,643-941-7471,jennifer.jackson55@example.com
+P1035,Paul,Thomas,49,M,Neurology,Coronary Artery Disease,27-08-2023,Dr. Iqbal,Medicare,,114.0,793-875-9022,paul.thomas62@example.com
+P1158,Thomas,Jones,37,Male,Radiology,Chronic Kidney Disease,02/24/2020,Dr. Iqbal,Humana,Discharged,12797.51,909-880-1769,thomas.jones88@example.com
+P1192,Jessica,Gonzalez,94,F,General Medicine,Migraine,11/04/2024,,Medicare,Outpatient,4007.36,762-733-3001,jessica.gonzalez26@example.com
+P1173,Matthew,gonzalez,66,,Orthopedics,Migraine,"Dec 27, 2020",Dr. Jones,Aetna,,13309.18,875-333-9835,matthew.gonzalez87@example.com
+P1151,Linda,lewis,33,Male,ER,,06/19/2025,,Medicaid,DISCHARGED,13101.42,877-944-5072,linda.lewis83@example.com
+P1156,Matthew,Wilson,31,female,Oncology,Chronic Kidney Disease,06/30/2020,,,DISCHARGED,7507.88,928-954-4560,matthew.wilson38@example.com
+P1068,Barbara,Sanchez,25,F,,,18-04-2019,Dr. Foster,Kaiser,,24576.15,267-516-7523,barbara.sanchez68@example.com
+P1103,John,sanchez,43,M,ER,Anxiety Disorder,10/14/2024,Dr. Foster,N/A,admitted,23963.64,388-390-8080,john.sanchez26@example.com
+P1141,MICHAEL,Thomas,81,male,Oncology,Osteoarthritis,02/10/2021,Dr. Diaz,Aetna,,21440.02,527-897-3292,michael.thomas38@example.com
+P1170,Kimberly,Lee,33,M,Emergency,Allergic Rhinitis,2023-02-05,Dr. Gupta,Cigna,DISCHARGED,10175.76,693-818-1108,kimberly.lee22@example.com
+P1147,Anthony,Anderson,60,F,ER,Hypertension,"May 18, 2022",,N/A,Outpatient,15588.8,307-723-2928,anthony.anderson64@example.com
+P1122,SARAH,Davis,74,Female,Orthopedics,Chronic Kidney Disease,23-03-2024,Dr. Iqbal,Medicaid,,5230.52,322-292-3582,sarah.davis91@example.com
+P1022,Anthony,Moore,77,Unknown,Pediatrics,Coronary Artery Disease,"  Nov 21, 2023 ",Dr. Foster,Self Pay,Pending,19963.65,3308379751,anthony.moore73@example.com
+P1087,John,Gonzalez,7,male,Pediatrics,COVID-19,23-06-2025,Dr. Chen,Self Pay,DISCHARGED,5565.02,805-952-3869,JOHN.GONZALEZ64@EXAMPLE.COM
+P1034,Patricia,Miller,36,Unknown,Neurology,Hypertension,01/24/2026,Dr. Evans,N/A,Admitted,13828.67,316-672-2924,patricia.miller92@example.com
+P1038,JOSEPH,White,81,Female,General Medicine,Influenza,  2022-05-11 ,Dr. Adams,Medicare,Outpatient,9402.29,779-898-3950,joseph.white49@example.com
+P1169,Michelle,Perez,57,M,ER,,2023-01-09,Dr. Hill,Cigna,Admitted,6645.71,730-569-7358,MICHELLE.PEREZ6@EXAMPLE.COM
+P1075,Michelle,White,64,Unknown,ER,Osteoarthritis,2024-04-29,,BlueCross,admitted,14613.37,904-844-1436,michelle.white84@example.com
+P1111,John,Brown,2,M,General Medicine,Chronic Kidney Disease,"Jan 03, 2019",,UnitedHealth,Pending,7581.54,295-870-6905,john.brown84@example.com
+P1172,Kimberly,Gonzalez,2,male,Neurology,Pneumonia,"Jan 14, 2024",Dr. Chen,Cigna,,10298.63,985-386-9369,kimberly.gonzalez44@example.com
+P1024,Michelle,Jones,14,F,General Medicine,Coronary Artery Disease,02/19/2023,,,Admitted,19455.91,792-226-6111,michelle.jones49@example.com
+P1130,Jennifer,Clark,42,male,Pediatrics,Anxiety Disorder,05-10-2019,Dr. Baker,,Admitted,1251.28,370-623-9078,jennifer.clark49@example.com
+P1198,Barbara,Moore,13,female,cardiology,Chronic Kidney Disease,"Jun 17, 2026",Dr. Chen,UnitedHealth,DISCHARGED,10068.85,814-653-6772,barbara.moore42@example.com
+P1025,Jessica,Brown,87,Female,,Type 2 Diabetes,"Nov 23, 2022",Dr. Baker,N/A,Pending,8563.72,308-643-6934,jessica.brown91@example.com
+P1114,Lisa,Robinson,72,M,,,2019-10-26,Dr. Adams,Medicare,Discharged,1043.68,718-493-9209,lisa.robinson52@example.com
+P1101,ANTHONY,Moore,89,Female,Neurology,Anxiety Disorder,17-05-2026,Dr. Jones,Aetna,DISCHARGED,24591.02,970-539-8052,anthony.moore29@example.com
+P1013,Elizabeth,Rodriguez,43,male,Dermatology,,2021-10-25,Dr. Gupta,Medicare,Admitted,138.46,468-365-8239,elizabeth.rodriguez2@example.com
+P1040,Charles,Smith,,Male,Psychiatry,,03/18/2022,Dr. Foster,Cigna,Pending,4793.79,985-875-3240,CHARLES.SMITH83@EXAMPLE.COM
+P1057,William,Perez,87,Female,cardiology,Anemia,  13-09-2024 ,Dr. Evans,UnitedHealth,Discharged,8576.22,340-358-2264,william.perez65@example.com
+P1129,Michelle,Sanchez,22,male,Orthopedics,Influenza,"Jan 08, 2019",Dr. Jones,Aetna,Discharged,15079.6,426-854-2705,michelle.sanchez96@example.com
+P1084,DONNA,Thomas,7,,General Medicine,Type 2 Diabetes,"Apr 07, 2025",Dr. Evans,,Admitted,9928.92,792-274-1742,donna.thomas70@example.com
+P1039,Elizabeth,Davis,32,Unknown,Oncology,Influenza,"Oct 30, 2019",Dr. Jones,Medicare,Pending,24052.63,509-403-7302,elizabeth.davis49@example.com
+P1145,Lisa,Smith,67,Male,cardiology,Anxiety Disorder,15-07-2021,Dr. Baker,Humana,DISCHARGED,14737.33,505-497-8469,lisa.smith44@example.com
+P1139,Ashley,Martin,60,female,Radiology,Influenza,2021-11-25,Dr. Gupta,Aetna,Discharged,21352.84,426-862-4688,ashley.martin53@example.com
+P1082,Jessica,Smith,34,male,Psychiatry,Hypertension,07-12-2021,Dr. Adams,Self Pay,Admitted,11661.61,920-988-6095,jessica.smith38@example.com
+P1011,Jessica,Gonzalez,31,Male,Psychiatry,Asthma,14-09-2023,Dr. Diaz,Self Pay,Pending,7888.89,860-507-8491,JESSICA.GONZALEZ10@EXAMPLE.COM
+P1135,Margaret,Williams,80,male,Radiology,Asthma,"Dec 23, 2019",Dr. Iqbal,Medicaid,,6941.21,917-838-9561,margaret.williams20@example.com
+P1079,Jessica,Johnson,81,Female,Emergency,COVID-19,2024-04-18,Dr. Chen,Aetna,DISCHARGED,24448.87,687-688-4267,jessica.johnson37@example.com
+P1014,ELIZABETH,Moore,70,M,Cardiology,Osteoarthritis,2023-02-02,Dr. Diaz,Self Pay,Discharged,16689.99,616-835-3532,elizabeth.moore21@example.com
+P1197,James,Robinson,10,Male,Radiology,Anemia,2023-02-20,Dr. Evans,N/A,Admitted,18370.79,421-731-2591,james.robinson50@example.com
+P1162,John,Martinez,65,Female,Orthopedics,Hypertension,2026-01-11,,Cigna,,17150.86,919-959-8130,
+P1163,JOHN,Williams,32,F,Oncology,Anemia,"May 09, 2023",Dr. Gupta,Medicaid,Admitted,$9768.07,937-833-2036,john.williams90@example.com
+P1003,Joseph,Ramirez,81,M,Radiology,Depression,08-05-2021,,Self Pay,Admitted,15247.82,367-673-7216,joseph.ramirez89@example.com
+P1155,Donna,Brown,84,M,General Medicine,Hypertension,2024-12-12,Dr. Gupta,self-pay,admitted,23113.05,908-792-3845,donna.brown50@example.com
+P1168,ROBERT,white,64,,,Pneumonia,31-05-2019,Dr. Iqbal,Kaiser,Pending,19391.17,990-803-5767,robert.white12@example.com
+P1059,Kenneth,Anderson,48,,Orthopedics,Pneumonia,10/12/2025,Dr. Adams,Self Pay,admitted,21859.22,728-327-5670,kenneth.anderson58@example.com
+P1031,Joseph,Martinez,58,F,Oncology,Pneumonia,2023-10-08,,UnitedHealth,Outpatient,20674.45,514-809-5728,joseph.martinez39@example.com
+P1107,Kenneth,Brown,46,Male,,Chronic Kidney Disease,02/15/2025,Dr. Baker,,,16359.11,233-660-5305,kenneth.brown57@example.com
+P1112,Joseph,Wilson,0,Female,Orthopedics,Anxiety Disorder,"  Oct 28, 2024 ",,Medicaid,,3058.81,689-272-4751,joseph.wilson14@example.com
+P1090,Charles,Gonzalez,39,Unknown,General Medicine,Migraine,07-04-2024,Dr. Foster,Medicaid,admitted,1190.6,216-467-7841,charles.gonzalez30@example.com
+P1086,Sandra,Perez,48,F,General Medicine,Depression,27-09-2020,,BlueCross,Admitted,20246.48,216-446-4376,sandra.perez58@example.com
+P1015,Mary,Garcia,52,F,Oncology,Influenza,"Mar 18, 2020",Dr. Hill,Cigna,Discharged,20423.84,433-428-1387,mary.garcia36@example.com
+P1021,Joseph,Gonzalez,8,female,Dermatology,Chronic Kidney Disease,2023-08-31,Dr. Gupta,Humana,,14622.78,983-789-7232,joseph.gonzalez39@example.com
+P1098,William,Rodriguez,8,male,Emergency,Osteoarthritis,2024-06-06,Dr. Diaz,,Pending,12420.27,338-511-1110,william.rodriguez80@example.com
+P1148,Kimberly,Miller,20,Unknown,Pediatrics,,  09/16/2022 ,,BlueCross,Admitted,20889.04,292-998-9383,kimberly.miller33@example.com
+P1188,Sarah,Moore,89,Unknown,cardiology,Anemia,14-11-2024,Dr. Hill,N/A,Discharged,20127.46,4663595973,sarah.moore98@example.com
+P1010,James,Gonzalez,58,Unknown,Orthopedics,Pneumonia,04/30/2022,Dr. Jones,,DISCHARGED,1570.89,688-714-9701,james.gonzalez11@example.com
+P1077,Paul,Taylor,58,female,Dermatology,Depression,19-03-2026,Dr. Diaz,Cigna,Outpatient,13974.26,504-989-5735,paul.taylor63@example.com
+P1164,Emily,jones,76,Female,Oncology,Pneumonia,11/09/2022,,N/A,Discharged,4065.81,398-317-3971,emily.jones7@example.com
+P1153,Ashley,White,52,Male,Neurology,Osteoarthritis,09/13/2024,Dr. Hill,Medicaid,Outpatient,20641.51,539-773-8751,ashley.white58@example.com
